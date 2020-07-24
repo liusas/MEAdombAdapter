@@ -1,0 +1,6 @@
+framework module Pods_MEAdombAdapter_Example {
+  umbrella header "Pods-MEAdombAdapter_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,44 @@
+Google-Mobile-Ads-SDK:
+  LABEL: Google-Mobile-Ads-SDK
+  PROJECT_PATH: Google-Mobile-Ads-SDK.xcodeproj
+  UUID: 662B519EDA759B92F78065D8C998C86E
+GoogleAppMeasurement:
+  LABEL: GoogleAppMeasurement
+  PROJECT_PATH: GoogleAppMeasurement.xcodeproj
+  UUID: 9677266E0E3834B96EA12E3394F9063D
+GoogleUtilities:
+  LABEL: GoogleUtilities
+  PROJECT_PATH: GoogleUtilities.xcodeproj
+  UUID: 80B861CBFC18436AFD9A3703F00CEEC4
+MEAdombAdapter:
+  LABEL: MEAdombAdapter
+  PROJECT_PATH: MEAdombAdapter.xcodeproj
+  UUID: A043337F164BF7FB3F9A82E1EAEBB139
+MEAdvSDK:
+  LABEL: MEAdvSDK
+  PROJECT_PATH: MEAdvSDK.xcodeproj
+  UUID: 2B1A12BF7022690FC3855E7A43566AAC
+nanopb:
+  LABEL: nanopb
+  PROJECT_PATH: nanopb.xcodeproj
+  UUID: 052B66B57BF269A4B160A5659F7D46D4
+Pods-MEAdombAdapter_Example:
+  LABEL: Pods-MEAdombAdapter_Example
+  PROJECT_PATH: Pods.xcodeproj
+  UUID: FD22E28573B57CBBC7D1DEE7FE12D8D6
+Pods-MEAdombAdapter_Tests:
+  LABEL: Pods-MEAdombAdapter_Tests
+  PROJECT_PATH: Pods.xcodeproj
+  UUID: D084650F7ED7681EC4E07EB05F8AB5A9
+PromisesObjC:
+  LABEL: PromisesObjC
+  PROJECT_PATH: PromisesObjC.xcodeproj
+  UUID: 615BB6D15EC37D16C898941802F0D251
+Reachability:
+  LABEL: Reachability
+  PROJECT_PATH: Reachability.xcodeproj
+  UUID: DA1EBD7850A215E94DBD19A247725F9F
+Realm:
+  LABEL: Realm
+  PROJECT_PATH: Realm.xcodeproj
+  UUID: BC4AC9FBD7453D9D72102559C8F6B8AC

@@ -1,0 +1,1 @@
+../../../MEAdvSDK/MEAdvSDK/Classes/Tools/NBLHTTPManager.h
