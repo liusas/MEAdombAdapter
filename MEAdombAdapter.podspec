@@ -39,5 +39,5 @@ Pod::Spec.new do |s|
   # s.dependency 'AFNetworking', '~> 2.3'
   
   s.dependency "Google-Mobile-Ads-SDK", '7.60.0'
-  s.dependency "MEAdvSDK", '0.1.4'
+  s.dependency "MEAdvSDK"
 end
