@@ -24,10 +24,10 @@ PODS:
   - "GoogleUtilities/NSData+zlib (6.7.2)"
   - GoogleUtilities/Reachability (6.7.2):
     - GoogleUtilities/Logger
-  - MEAdombAdapter (0.1.0):
+  - MEAdombAdapter (0.1.1):
     - Google-Mobile-Ads-SDK (= 7.60.0)
-    - MEAdvSDK (= 0.1.4)
-  - MEAdvSDK (0.1.4):
+    - MEAdvSDK
+  - MEAdvSDK (0.1.7):
     - Reachability
     - Realm (= 4.4.1)
   - nanopb (1.30905.0):
@@ -63,8 +63,8 @@ SPEC CHECKSUMS:
   Google-Mobile-Ads-SDK: d70efb31e7ea19fe99d466dc5d4788966b6914f8
   GoogleAppMeasurement: 3def7652b1f5b5a576178dc332e2a36a260fbef6
   GoogleUtilities: 7f2f5a07f888cdb145101d6042bc4422f57e70b3
-  MEAdombAdapter: af324b92589c61e49b1503d2b3b895f3260e188f
-  MEAdvSDK: 6d2f5e002ef415b8f7b9c52f81e0814285b7576a
+  MEAdombAdapter: 329b186aa2fc9fc4a7c902b636fef996868acd2a
+  MEAdvSDK: c53edafca810b70148b43298fc3cbed507312f0e
   nanopb: c43f40fadfe79e8b8db116583945847910cbabc9
   PromisesObjC: b14b1c6b68e306650688599de8a45e49fae81151
   Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96

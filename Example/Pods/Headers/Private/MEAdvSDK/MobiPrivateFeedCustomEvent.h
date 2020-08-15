@@ -1,0 +1,1 @@
+../../../MEAdvSDK/MEAdvSDK/Classes/Platform/Mobipub/MobipubSDK/Feed/Adapter/MobiPrivateFeedCustomEvent.h

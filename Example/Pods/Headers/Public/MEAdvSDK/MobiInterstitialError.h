@@ -1,0 +1,1 @@
+../../../MEAdvSDK/MEAdvSDK/Classes/Platform/Mobipub/MobipubSDK/Interstitial/Model/MobiInterstitialError.h

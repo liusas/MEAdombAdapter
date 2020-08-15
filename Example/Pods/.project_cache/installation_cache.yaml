@@ -40,7 +40,7 @@ CACHE_KEYS:
       MEAdombAdapter:
         :debug: a24005252bbaf5a8715dd13988f079bc
         :release: a24005252bbaf5a8715dd13988f079bc
-    CHECKSUM: af324b92589c61e49b1503d2b3b895f3260e188f
+    CHECKSUM: 329b186aa2fc9fc4a7c902b636fef996868acd2a
     FILES:
       - "../../LICENSE"
       - "../../MEAdombAdapter/Classes/MEAdombAdapter.h"
@@ -48,16 +48,16 @@ CACHE_KEYS:
       - "../../README.md"
     PROJECT_NAME: MEAdombAdapter
     SPECS:
-      - MEAdombAdapter (0.1.0)
+      - MEAdombAdapter (0.1.1)
   MEAdvSDK:
     BUILD_SETTINGS_CHECKSUM:
       MEAdvSDK:
         :debug: 8747ad686f58fa12abc9af4b0fa8ffe3
         :release: 8747ad686f58fa12abc9af4b0fa8ffe3
-    CHECKSUM: 6d2f5e002ef415b8f7b9c52f81e0814285b7576a
+    CHECKSUM: c53edafca810b70148b43298fc3cbed507312f0e
     PROJECT_NAME: MEAdvSDK
     SPECS:
-      - MEAdvSDK (0.1.4)
+      - MEAdvSDK (0.1.7)
   nanopb:
     BUILD_SETTINGS_CHECKSUM:
       nanopb:
@@ -75,6 +75,8 @@ CACHE_KEYS:
       Release: fe4236dab853e9ac69fb87709a299ae8
     FILES:
       - "${PODS_ROOT}/MEAdvSDK/MEAdvSDK/Assets/Resource/MEAdvBundle.bundle"
+      - "${PODS_ROOT}/MEAdvSDK/MEAdvSDK/Assets/Resource/MobiPubSDK.bundle"
+      - "${PODS_ROOT}/MEAdvSDK/MEAdvSDK/Assets/Resource/MRAID.bundle"
   Pods-MEAdombAdapter_Tests:
     BUILD_SETTINGS_CHECKSUM:
       Debug: 0e74c1d8aafbbd9ddff4f782aa4f6738

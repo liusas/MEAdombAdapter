@@ -1,0 +1,1 @@
+../../../MEAdvSDK/MEAdvSDK/Classes/Platform/Mobipub/MobipubSDK/Common/VAST/MPVASTAd.h

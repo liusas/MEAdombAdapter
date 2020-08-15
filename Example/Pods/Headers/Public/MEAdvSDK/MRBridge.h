@@ -1,0 +1,1 @@
+../../../MEAdvSDK/MEAdvSDK/Classes/Platform/Mobipub/MobipubSDK/Banner/Internal/MRAID/MRBridge.h

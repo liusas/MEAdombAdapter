@@ -1,6 +1,6 @@
 {
   "name": "MEAdombAdapter",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A adapter of Admob for mediation SDK",
   "description": "this is a Mobiexchanger's advertise adapter, and we use it as a module",
   "homepage": "https://github.com/liusas/MEAdombAdapter.git",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/liusas/MEAdombAdapter.git",
-    "tag": "0.1.0"
+    "tag": "0.1.1"
   },
   "platforms": {
     "ios": "9.0"
@@ -24,7 +24,7 @@
       "7.60.0"
     ],
     "MEAdvSDK": [
-      "0.1.4"
+
     ]
   }
 }

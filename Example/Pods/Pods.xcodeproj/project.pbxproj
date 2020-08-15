@@ -12,47 +12,33 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		05A3058746619C04937F7728795D3977 /* PBXContainerItemProxy */ = {
+		0819086ECC2EDB6417430291A59EBE7A /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 9BFC8C81FC609009CFE5A42BA6EDB67B /* MEAdvSDK.xcodeproj */;
+			containerPortal = 5B3CB16A1D8DEC14A8053466C1531662 /* PromisesObjC.xcodeproj */;
 			proxyType = 1;
-			remoteGlobalIDString = 2B1A12BF7022690FC3855E7A43566AAC;
-			remoteInfo = MEAdvSDK;
+			remoteGlobalIDString = 615BB6D15EC37D16C898941802F0D251;
+			remoteInfo = PromisesObjC;
 		};
-		36B97FEA3EB6DC785602130F82492650 /* PBXContainerItemProxy */ = {
+		25446542B6F850E1FDBB543D5E64E342 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 83049D42F69140BE7EE6941354E83E98 /* GoogleUtilities.xcodeproj */;
-			proxyType = 1;
-			remoteGlobalIDString = 80B861CBFC18436AFD9A3703F00CEEC4;
-			remoteInfo = GoogleUtilities;
-		};
-		51F454F17933FB05F0EBBD6768ECB7E7 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 2D252A9BF0FA4FDDD318DE5359636979 /* Reachability.xcodeproj */;
-			proxyType = 1;
-			remoteGlobalIDString = DA1EBD7850A215E94DBD19A247725F9F;
-			remoteInfo = Reachability;
-		};
-		6186BD8C86152856E2D5D2270536A97A /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 879564415C9AED3DC29F15348B51D5B3 /* Realm.xcodeproj */;
+			containerPortal = 778876EC301A98CFF95977F3A1E8414C /* Realm.xcodeproj */;
 			proxyType = 1;
 			remoteGlobalIDString = BC4AC9FBD7453D9D72102559C8F6B8AC;
 			remoteInfo = Realm;
 		};
-		703E5D599B6E74AFEB8D6A02DFD54FFB /* PBXContainerItemProxy */ = {
+		30EC63FB1885CC49F3B3B4039D4D15E1 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 080E6D5CDD0A9625A074C3AB7AE45019 /* nanopb.xcodeproj */;
+			containerPortal = 2815EEFE2FD31B839DDA3D4C020C6907 /* nanopb.xcodeproj */;
 			proxyType = 1;
 			remoteGlobalIDString = 052B66B57BF269A4B160A5659F7D46D4;
 			remoteInfo = nanopb;
 		};
-		8AD51B8094DB4D6C21EAF0501B28EEA8 /* PBXContainerItemProxy */ = {
+		585F6AEF9669B2A3FA5871F9F97C06DE /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 31D2A5F256ACCDAC428A154AEBAD43AC /* GoogleAppMeasurement.xcodeproj */;
+			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 9677266E0E3834B96EA12E3394F9063D;
-			remoteInfo = GoogleAppMeasurement;
+			remoteGlobalIDString = FD22E28573B57CBBC7D1DEE7FE12D8D6;
+			remoteInfo = "Pods-MEAdombAdapter_Example";
 		};
 		B4BDA840C6D319F3E94DA817AF8D7997 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -61,50 +47,64 @@
 			remoteGlobalIDString = A043337F164BF7FB3F9A82E1EAEBB139;
 			remoteInfo = MEAdombAdapter;
 		};
-		E264EF042A89DFEBC599270976FC18F3 /* PBXContainerItemProxy */ = {
+		B82CE4B61324A6154F13B7132C8761F4 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 3A4F23A25831302834557355B2E90191 /* PromisesObjC.xcodeproj */;
-			proxyType = 1;
-			remoteGlobalIDString = 615BB6D15EC37D16C898941802F0D251;
-			remoteInfo = PromisesObjC;
-		};
-		E94AF89264C9D35BA4232004BECB6835 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 8B54C0AB53BD762BC376F39719B1F850 /* Google-Mobile-Ads-SDK.xcodeproj */;
+			containerPortal = 3BF65E7D0EA90E16762A0CB5F994D1EC /* Google-Mobile-Ads-SDK.xcodeproj */;
 			proxyType = 1;
 			remoteGlobalIDString = 662B519EDA759B92F78065D8C998C86E;
 			remoteInfo = "Google-Mobile-Ads-SDK";
 		};
-		F788E972096BD0823290DD846A42DEBC /* PBXContainerItemProxy */ = {
+		CBD71D65501943095957B136272DFCE8 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
+			containerPortal = E262C731908BFE5D48905F62B5A8D1D7 /* MEAdvSDK.xcodeproj */;
 			proxyType = 1;
-			remoteGlobalIDString = FD22E28573B57CBBC7D1DEE7FE12D8D6;
-			remoteInfo = "Pods-MEAdombAdapter_Example";
+			remoteGlobalIDString = 2B1A12BF7022690FC3855E7A43566AAC;
+			remoteInfo = MEAdvSDK;
+		};
+		EDC1839338823AD9FE10B435FEFE5AAF /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = A66CBBA70B6336CCA1F0267A9F60E67F /* GoogleAppMeasurement.xcodeproj */;
+			proxyType = 1;
+			remoteGlobalIDString = 9677266E0E3834B96EA12E3394F9063D;
+			remoteInfo = GoogleAppMeasurement;
+		};
+		F592BB8D64E21EFF750B85285D7AE144 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 328B34C5515AB9C2FFCE49B31AB733A6 /* Reachability.xcodeproj */;
+			proxyType = 1;
+			remoteGlobalIDString = DA1EBD7850A215E94DBD19A247725F9F;
+			remoteInfo = Reachability;
+		};
+		FA9B20B64F93393BC6FEBE1824283742 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 23600A1321B6AA45A586DBDE6F100B6B /* GoogleUtilities.xcodeproj */;
+			proxyType = 1;
+			remoteGlobalIDString = 80B861CBFC18436AFD9A3703F00CEEC4;
+			remoteInfo = GoogleUtilities;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		053A2103EF7D014C4736253779F1E6FB /* Pods-MEAdombAdapter_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MEAdombAdapter_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		080E6D5CDD0A9625A074C3AB7AE45019 /* nanopb */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = nanopb; path = nanopb.xcodeproj; sourceTree = "<group>"; };
 		09B3549A0C1F1CA11FCEF8CF6C27A9A7 /* Pods-MEAdombAdapter_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MEAdombAdapter_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		0A4906133891F70A3B4E2C6FF852C522 /* libPods-MEAdombAdapter_Tests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-MEAdombAdapter_Tests.a"; path = "libPods-MEAdombAdapter_Tests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		11C93D88778AD01E07F8C38489D0A98B /* Pods-MEAdombAdapter_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MEAdombAdapter_Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		23600A1321B6AA45A586DBDE6F100B6B /* GoogleUtilities */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = GoogleUtilities; path = GoogleUtilities.xcodeproj; sourceTree = "<group>"; };
+		2815EEFE2FD31B839DDA3D4C020C6907 /* nanopb */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = nanopb; path = nanopb.xcodeproj; sourceTree = "<group>"; };
 		28C53DF00C5564E9244AA2ADED7E4443 /* Pods-MEAdombAdapter_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MEAdombAdapter_Tests-dummy.m"; sourceTree = "<group>"; };
-		2D252A9BF0FA4FDDD318DE5359636979 /* Reachability */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Reachability; path = Reachability.xcodeproj; sourceTree = "<group>"; };
 		2F307E76FA0BB970C08407F6554362BA /* Pods-MEAdombAdapter_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MEAdombAdapter_Example.release.xcconfig"; sourceTree = "<group>"; };
-		31D2A5F256ACCDAC428A154AEBAD43AC /* GoogleAppMeasurement */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = GoogleAppMeasurement; path = GoogleAppMeasurement.xcodeproj; sourceTree = "<group>"; };
-		3A4F23A25831302834557355B2E90191 /* PromisesObjC */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = PromisesObjC; path = PromisesObjC.xcodeproj; sourceTree = "<group>"; };
+		328B34C5515AB9C2FFCE49B31AB733A6 /* Reachability */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Reachability; path = Reachability.xcodeproj; sourceTree = "<group>"; };
+		3BF65E7D0EA90E16762A0CB5F994D1EC /* Google-Mobile-Ads-SDK */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = "Google-Mobile-Ads-SDK"; path = "Google-Mobile-Ads-SDK.xcodeproj"; sourceTree = "<group>"; };
+		5B3CB16A1D8DEC14A8053466C1531662 /* PromisesObjC */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = PromisesObjC; path = PromisesObjC.xcodeproj; sourceTree = "<group>"; };
 		5F29FD7175CB75EDF878DC9DB914BAFD /* MEAdombAdapter */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = MEAdombAdapter; path = MEAdombAdapter.xcodeproj; sourceTree = "<group>"; };
-		83049D42F69140BE7EE6941354E83E98 /* GoogleUtilities */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = GoogleUtilities; path = GoogleUtilities.xcodeproj; sourceTree = "<group>"; };
-		879564415C9AED3DC29F15348B51D5B3 /* Realm */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Realm; path = Realm.xcodeproj; sourceTree = "<group>"; };
+		778876EC301A98CFF95977F3A1E8414C /* Realm */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = Realm; path = Realm.xcodeproj; sourceTree = "<group>"; };
 		8B328A1EB6449DEBCABBC36ECF3A368B /* Pods-MEAdombAdapter_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-MEAdombAdapter_Example-dummy.m"; sourceTree = "<group>"; };
-		8B54C0AB53BD762BC376F39719B1F850 /* Google-Mobile-Ads-SDK */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = "Google-Mobile-Ads-SDK"; path = "Google-Mobile-Ads-SDK.xcodeproj"; sourceTree = "<group>"; };
-		9BFC8C81FC609009CFE5A42BA6EDB67B /* MEAdvSDK */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = MEAdvSDK; path = MEAdvSDK.xcodeproj; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		A66CBBA70B6336CCA1F0267A9F60E67F /* GoogleAppMeasurement */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = GoogleAppMeasurement; path = GoogleAppMeasurement.xcodeproj; sourceTree = "<group>"; };
 		BAE3425217CFE41793F9195678C17F72 /* Pods-MEAdombAdapter_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-MEAdombAdapter_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		C71937D9D98BB4AA196FBBB1D0B4AD3A /* Pods-MEAdombAdapter_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MEAdombAdapter_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		CFC9A28240B7E4B7F3F90A04F81E14AB /* Pods-MEAdombAdapter_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-MEAdombAdapter_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		E262C731908BFE5D48905F62B5A8D1D7 /* MEAdvSDK */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = MEAdvSDK; path = MEAdvSDK.xcodeproj; sourceTree = "<group>"; };
 		E570732162E34B779B408F252B35E04F /* Pods-MEAdombAdapter_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-MEAdombAdapter_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		E762B5C0D5816857C903BF85F8B673C4 /* Pods-MEAdombAdapter_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-MEAdombAdapter_Example-resources.sh"; sourceTree = "<group>"; };
 		FAD86553D9035E6498012C969E14694A /* libPods-MEAdombAdapter_Example.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-MEAdombAdapter_Example.a"; path = "libPods-MEAdombAdapter_Example.a"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -128,21 +128,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		43E011E7FEA88F7C1BE4D8F9C256E3A4 /* Pods */ = {
-			isa = PBXGroup;
-			children = (
-				8B54C0AB53BD762BC376F39719B1F850 /* Google-Mobile-Ads-SDK */,
-				31D2A5F256ACCDAC428A154AEBAD43AC /* GoogleAppMeasurement */,
-				83049D42F69140BE7EE6941354E83E98 /* GoogleUtilities */,
-				9BFC8C81FC609009CFE5A42BA6EDB67B /* MEAdvSDK */,
-				080E6D5CDD0A9625A074C3AB7AE45019 /* nanopb */,
-				3A4F23A25831302834557355B2E90191 /* PromisesObjC */,
-				2D252A9BF0FA4FDDD318DE5359636979 /* Reachability */,
-				879564415C9AED3DC29F15348B51D5B3 /* Realm */,
-			);
-			name = Pods;
-			sourceTree = "<group>";
-		};
 		44464CAD4F93EEFACA3D66CAC387F8E2 /* Pods-MEAdombAdapter_Example */ = {
 			isa = PBXGroup;
 			children = (
@@ -189,7 +174,7 @@
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
 				76C6E10583CA28A66B01EA3355287CEC /* Development Pods */,
 				D89477F20FB1DE18A04690586D7808C4 /* Frameworks */,
-				43E011E7FEA88F7C1BE4D8F9C256E3A4 /* Pods */,
+				D7CF91D06EE5B4E4C2731915D4F34DCF /* Pods */,
 				BCB32DC713AE6624337BCDF5200C7E97 /* Products */,
 				4F95AF76688B5C1F700E8CEF6D0721ED /* Targets Support Files */,
 			);
@@ -206,6 +191,21 @@
 			);
 			name = "Pods-MEAdombAdapter_Tests";
 			path = "Target Support Files/Pods-MEAdombAdapter_Tests";
+			sourceTree = "<group>";
+		};
+		D7CF91D06EE5B4E4C2731915D4F34DCF /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				3BF65E7D0EA90E16762A0CB5F994D1EC /* Google-Mobile-Ads-SDK */,
+				A66CBBA70B6336CCA1F0267A9F60E67F /* GoogleAppMeasurement */,
+				23600A1321B6AA45A586DBDE6F100B6B /* GoogleUtilities */,
+				E262C731908BFE5D48905F62B5A8D1D7 /* MEAdvSDK */,
+				2815EEFE2FD31B839DDA3D4C020C6907 /* nanopb */,
+				5B3CB16A1D8DEC14A8053466C1531662 /* PromisesObjC */,
+				328B34C5515AB9C2FFCE49B31AB733A6 /* Reachability */,
+				778876EC301A98CFF95977F3A1E8414C /* Realm */,
+			);
+			name = Pods;
 			sourceTree = "<group>";
 		};
 		D89477F20FB1DE18A04690586D7808C4 /* Frameworks */ = {
@@ -246,7 +246,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				F30C5BFC8CF5C25BA8D3421C9ED974AA /* PBXTargetDependency */,
+				210E60E85C9642EA6DE7062E84EEF820 /* PBXTargetDependency */,
 			);
 			name = "Pods-MEAdombAdapter_Tests";
 			productName = "Pods-MEAdombAdapter_Tests";
@@ -264,15 +264,15 @@
 			buildRules = (
 			);
 			dependencies = (
-				0FF5DCE38DD813E8AA61C3CA908A4287 /* PBXTargetDependency */,
-				225BA701E4489EDAAE99E3EC3CC63758 /* PBXTargetDependency */,
-				9F023AE9234D638A9C2AF7C35A874C31 /* PBXTargetDependency */,
+				B4F6B5E1E209D48B762F62DCF3F15B83 /* PBXTargetDependency */,
+				8AEA3B4F8C6FCE1807652350F70A69E5 /* PBXTargetDependency */,
+				CD11289B20E13A174F11611AF613AFE7 /* PBXTargetDependency */,
 				8ADC634BD28A76EECF2A70D1508A1F6B /* PBXTargetDependency */,
-				6E09151A025430A6DC36631921AE9EF9 /* PBXTargetDependency */,
-				B5702E8A32F1C37D6685E35546AA543D /* PBXTargetDependency */,
-				2D5E38D4D4B51392E7DC3504254CE753 /* PBXTargetDependency */,
-				36D6EAE1684720FA953EC29B25461B2A /* PBXTargetDependency */,
-				C0D626D2F8540FB885C8900F0ADA993E /* PBXTargetDependency */,
+				603B73EC641BD9C5EC84E6557E0BB169 /* PBXTargetDependency */,
+				BAD0BCD27616E0D1E3ED43D1BB4B4729 /* PBXTargetDependency */,
+				CF4DA2EFD6F57CBC25C7ADA50A3BA991 /* PBXTargetDependency */,
+				0F8E2C9D7F3239A2D22E17F227F6885D /* PBXTargetDependency */,
+				5C77E08D2655C876D5D8C235E6A1CE01 /* PBXTargetDependency */,
 			);
 			name = "Pods-MEAdombAdapter_Example";
 			productName = "Pods-MEAdombAdapter_Example";
@@ -301,31 +301,31 @@
 			projectDirPath = "";
 			projectReferences = (
 				{
-					ProjectRef = 8B54C0AB53BD762BC376F39719B1F850 /* Google-Mobile-Ads-SDK */;
+					ProjectRef = E262C731908BFE5D48905F62B5A8D1D7 /* MEAdvSDK */;
 				},
 				{
-					ProjectRef = 31D2A5F256ACCDAC428A154AEBAD43AC /* GoogleAppMeasurement */;
+					ProjectRef = 328B34C5515AB9C2FFCE49B31AB733A6 /* Reachability */;
 				},
 				{
-					ProjectRef = 83049D42F69140BE7EE6941354E83E98 /* GoogleUtilities */;
+					ProjectRef = 778876EC301A98CFF95977F3A1E8414C /* Realm */;
 				},
 				{
 					ProjectRef = 5F29FD7175CB75EDF878DC9DB914BAFD /* MEAdombAdapter */;
 				},
 				{
-					ProjectRef = 9BFC8C81FC609009CFE5A42BA6EDB67B /* MEAdvSDK */;
+					ProjectRef = 3BF65E7D0EA90E16762A0CB5F994D1EC /* Google-Mobile-Ads-SDK */;
 				},
 				{
-					ProjectRef = 3A4F23A25831302834557355B2E90191 /* PromisesObjC */;
+					ProjectRef = A66CBBA70B6336CCA1F0267A9F60E67F /* GoogleAppMeasurement */;
 				},
 				{
-					ProjectRef = 2D252A9BF0FA4FDDD318DE5359636979 /* Reachability */;
+					ProjectRef = 23600A1321B6AA45A586DBDE6F100B6B /* GoogleUtilities */;
 				},
 				{
-					ProjectRef = 879564415C9AED3DC29F15348B51D5B3 /* Realm */;
+					ProjectRef = 5B3CB16A1D8DEC14A8053466C1531662 /* PromisesObjC */;
 				},
 				{
-					ProjectRef = 080E6D5CDD0A9625A074C3AB7AE45019 /* nanopb */;
+					ProjectRef = 2815EEFE2FD31B839DDA3D4C020C6907 /* nanopb */;
 				},
 			);
 			projectRoot = "";
@@ -356,56 +356,56 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		0FF5DCE38DD813E8AA61C3CA908A4287 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = "Google-Mobile-Ads-SDK";
-			targetProxy = E94AF89264C9D35BA4232004BECB6835 /* PBXContainerItemProxy */;
-		};
-		225BA701E4489EDAAE99E3EC3CC63758 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = GoogleAppMeasurement;
-			targetProxy = 8AD51B8094DB4D6C21EAF0501B28EEA8 /* PBXContainerItemProxy */;
-		};
-		2D5E38D4D4B51392E7DC3504254CE753 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			name = Reachability;
-			targetProxy = 51F454F17933FB05F0EBBD6768ECB7E7 /* PBXContainerItemProxy */;
-		};
-		36D6EAE1684720FA953EC29B25461B2A /* PBXTargetDependency */ = {
+		0F8E2C9D7F3239A2D22E17F227F6885D /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = Realm;
-			targetProxy = 6186BD8C86152856E2D5D2270536A97A /* PBXContainerItemProxy */;
+			targetProxy = 25446542B6F850E1FDBB543D5E64E342 /* PBXContainerItemProxy */;
 		};
-		6E09151A025430A6DC36631921AE9EF9 /* PBXTargetDependency */ = {
+		210E60E85C9642EA6DE7062E84EEF820 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "Pods-MEAdombAdapter_Example";
+			target = FD22E28573B57CBBC7D1DEE7FE12D8D6 /* Pods-MEAdombAdapter_Example */;
+			targetProxy = 585F6AEF9669B2A3FA5871F9F97C06DE /* PBXContainerItemProxy */;
+		};
+		5C77E08D2655C876D5D8C235E6A1CE01 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = nanopb;
+			targetProxy = 30EC63FB1885CC49F3B3B4039D4D15E1 /* PBXContainerItemProxy */;
+		};
+		603B73EC641BD9C5EC84E6557E0BB169 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = MEAdvSDK;
-			targetProxy = 05A3058746619C04937F7728795D3977 /* PBXContainerItemProxy */;
+			targetProxy = CBD71D65501943095957B136272DFCE8 /* PBXContainerItemProxy */;
 		};
 		8ADC634BD28A76EECF2A70D1508A1F6B /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = MEAdombAdapter;
 			targetProxy = B4BDA840C6D319F3E94DA817AF8D7997 /* PBXContainerItemProxy */;
 		};
-		9F023AE9234D638A9C2AF7C35A874C31 /* PBXTargetDependency */ = {
+		8AEA3B4F8C6FCE1807652350F70A69E5 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = GoogleUtilities;
-			targetProxy = 36B97FEA3EB6DC785602130F82492650 /* PBXContainerItemProxy */;
+			name = GoogleAppMeasurement;
+			targetProxy = EDC1839338823AD9FE10B435FEFE5AAF /* PBXContainerItemProxy */;
 		};
-		B5702E8A32F1C37D6685E35546AA543D /* PBXTargetDependency */ = {
+		B4F6B5E1E209D48B762F62DCF3F15B83 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "Google-Mobile-Ads-SDK";
+			targetProxy = B82CE4B61324A6154F13B7132C8761F4 /* PBXContainerItemProxy */;
+		};
+		BAD0BCD27616E0D1E3ED43D1BB4B4729 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = PromisesObjC;
-			targetProxy = E264EF042A89DFEBC599270976FC18F3 /* PBXContainerItemProxy */;
+			targetProxy = 0819086ECC2EDB6417430291A59EBE7A /* PBXContainerItemProxy */;
 		};
-		C0D626D2F8540FB885C8900F0ADA993E /* PBXTargetDependency */ = {
+		CD11289B20E13A174F11611AF613AFE7 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = nanopb;
-			targetProxy = 703E5D599B6E74AFEB8D6A02DFD54FFB /* PBXContainerItemProxy */;
+			name = GoogleUtilities;
+			targetProxy = FA9B20B64F93393BC6FEBE1824283742 /* PBXContainerItemProxy */;
 		};
-		F30C5BFC8CF5C25BA8D3421C9ED974AA /* PBXTargetDependency */ = {
+		CF4DA2EFD6F57CBC25C7ADA50A3BA991 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = "Pods-MEAdombAdapter_Example";
-			target = FD22E28573B57CBBC7D1DEE7FE12D8D6 /* Pods-MEAdombAdapter_Example */;
-			targetProxy = F788E972096BD0823290DD846A42DEBC /* PBXContainerItemProxy */;
+			name = Reachability;
+			targetProxy = F592BB8D64E21EFF750B85285D7AE144 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
