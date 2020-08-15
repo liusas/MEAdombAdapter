@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MEAdombAdapter'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'A adapter of Admob for mediation SDK'
 
 # This description is used to generate tags and improve search results.
@@ -26,7 +26,7 @@ Pod::Spec.new do |s|
   s.source           = { :git => 'https://github.com/liusas/MEAdombAdapter.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '10.0'
+  s.ios.deployment_target = '9.0'
 
   s.source_files = 'MEAdombAdapter/Classes/**/*'
   
