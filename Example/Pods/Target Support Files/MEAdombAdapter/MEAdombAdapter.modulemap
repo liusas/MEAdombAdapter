@@ -1,6 +1,0 @@
-framework module MEAdombAdapter {
-  umbrella header "MEAdombAdapter-umbrella.h"
-
-  export *
-  module * { export * }
-}
